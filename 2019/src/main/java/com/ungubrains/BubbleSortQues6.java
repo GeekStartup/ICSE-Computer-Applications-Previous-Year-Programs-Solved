@@ -8,10 +8,10 @@ import java.util.Scanner;
  * Question 6.
  * Write a program to input 15 integer elements in an array and sort them in ascending order using the bubble sort technique.
  */
-public class BubbleSort {
+public class BubbleSortQues6 {
 
     public static void main(String[] args){
-        BubbleSort sort = new BubbleSort();
+        BubbleSortQues6 sort = new BubbleSortQues6();
 
         int[] arr = new int[15];
         Scanner scanner = new Scanner(System.in);
