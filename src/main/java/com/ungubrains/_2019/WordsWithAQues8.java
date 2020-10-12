@@ -1,4 +1,4 @@
-package main.java.com.ungubrains;
+package com.ungubrains._2019;
 
 import java.util.Scanner;
 
