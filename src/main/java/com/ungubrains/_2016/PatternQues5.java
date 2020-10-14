@@ -26,7 +26,7 @@ import java.util.Scanner;
  * <p>
  * For an incorrect option, an appropriate error message should be displayed.
  */
-public class SeriesQues5 {
+public class PatternQues5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter 1 to display Floyd's triangle and 2 display ICSE pattern:: ");
